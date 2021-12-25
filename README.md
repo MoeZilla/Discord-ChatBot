@@ -3,8 +3,7 @@
 
 ### Features:
 
-- PLAYING, WATCHING, STREAMING ETC RPC
-- Custom Status: online, dnd, idle
+- Discord Voice Channel Automatic Online 
 
 ### FAQ
 - **Q: How can I obtain my token?**
@@ -13,21 +12,13 @@
 ### Installing 
 
 ```
-node index.js
+Clone it to replit
 
-TOKEN=<Please Enter Your Discord self Token>
-Name=<Please Enter Your Rpc Name>
-Type=<Please Enter Your Rpc Type Like PLAYING>
-ApplicationId=<Please Enter Your Discord Application Client Id>
+Creat secrets named TOKEN - import Your Discord Account Token
 
-Url=<Please Enter Your RPC URL>
-Details=<Please Enter Your Rpc Details>
-State=<Please Enter Your Rpc State>
-ImageName=<Please Enter Your Rpc Assect Id>
-ImageSmall=<Please Enter Your Rpc Assect Id>
+Install PyNaCl
 
 ```
 
-### Host By Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MoeZilla/Discord-Rpc-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- 
+### Host By Relp
+[![Run on Repl.it](https://repl.it/badge/github/MoeZilla/Discord-Voice-Selfbot)](https://repl.it/github/MoeZilla/Discord-Voice-Selfbot)
